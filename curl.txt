@@ -1,0 +1,20 @@
+
+
+curl https://workday--gtmdev.my.salesforce.com/services/data/v37.0/sobjects/ -H 'Authorization: Bearer 00D1b0000004eZ8!AQwAQPJNH49.LTf0pbc3Nzmmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2gBjVKl17qmhX'
+
+curl https://workday--gtmdev.my.salesforce.com/services/data/v48.0/limits/ -H "Authorization: Bearer mmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2g "X-PrettyPrint:1"
+curl https://workday--gtmdev.my.salesforce.com/services/data/v48.0/limits/ -H "Authorization: Bearer mmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2g "X-PrettyPrint:1"
+
+curl https://workday--gtmdev.my.salesforce.com/services/data/v48.0/limits/ -H "Authorization: Bearer mmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2g "X-PrettyPrint:1"
+
+curl https://workday--gtmdev.my.salesforce.com/services/data/v37.0/sobjects/ -H "Authorization: Bearer mmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2g"
+curl https://workday--gtmdev.my.salesforce.com/services/data/v37.0/sobjects/ -H "Authorization: Bearer mmi2VJnPWEd82n76UTNptQIMCMspDupwt0wFPC_G7vaCxDzxquMtoORVRARQJ2g"
+
+
+curl https://workday--vsabb.my.salesforce.com/services/data/v37.0/sobjects/ -H '00D0v0000005NaB!AQ4AQAdEE1tjzG8iuARQcfeMT4Kq7tEKdigrlWIAv.2IjV_l7YOyMNyxVV1uTo8BajbPN8CTe0.bJOwK0ZYIsGAg9OaX3h6v'
+
+curl https://workday--vsabb.my.salesforce.com/services/data/v37.0/sobjects/ -H 'Authorization: Bearer 00D0v0000005NaB!AQ4AQAdEE1tjzG8iuARQcfeMT4Kq7tEKdigrlWIAv.2IjV_l7YOyMNyxVV1uTo8BajbPN8CTe0.bJOwK0ZYIsGAg9OaX3h6v' >> test.txt
+
+00D0v0000005NaB!AQ4AQErxL2OYZZDfmW4ni7AmrYWQG_pN9xkHedchmNRIgmycJiJWl.Pub5MlCP3GGRhpsoHb1nSTf3ZXpuaxertayw9gFMlq
+
+alert('Copied to Clipboard SessionId --> ' +document.cookie.match(/(^|;\s*)sid=(.+?);/)[2]); var copyFrom = document.createElement("textarea");  copyFrom.textContent = document.cookie.match(/(^|;\s*)sid=(.+?);/)[2];  var body = document.getElementsByTagName('body')[0]; body.appendChild(copyFrom); copyFrom.select();  document.execCommand('copy');  body.removeChild(copyFrom);
